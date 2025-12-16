@@ -21,9 +21,6 @@ Daily learning log for canvas and Bézier curve project
 ## Status
 Static Bezier curve rendered with control points.
 
-## Next
-Day 3: Mouse interaction and dragging control points
-
 # Day 3 – Interactive Bezier Curve (HTML Canvas)
 
 This is my Day 3 progress in learning HTML Canvas and Bezier curves.  
